@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">activity10</string>
+    <string name="btTambah">Tambah Data</string>
+    <string name="btLihat">Lihat Data</string>
+    <string name="bOk">Sumbit Data</string>
+    <string name="eno">Kode Barang</string>
+    <string name="enama">Nama Barang</string>
+    <string name="TxtJudul1">ACTIVITY</string>
+    <string name="txtJudul2">Penambahan Data</string>
+    <string name="txtJudul3">Data Barang</string>
+    <string name="txtKosong"></string>
+</resources>
